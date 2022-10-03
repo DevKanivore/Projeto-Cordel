@@ -105,6 +105,13 @@ footer {
         font-size: 5vw;
     }
 
+    section#img01 {
+        background-image: url("../imagens/background001.jpg");
+        background-position: right center;
+        background-size: cover;
+      }
+    
+
     footer {
         font-size: 10px;
     }
